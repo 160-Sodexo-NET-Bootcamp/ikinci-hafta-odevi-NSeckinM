@@ -9,3 +9,4 @@ C:\Users\Asus\source\repos\ikinci-hafta-odevi-NSeckinM\NSeckinMantar_Odev2_Akill
 C:\Users\Asus\source\repos\ikinci-hafta-odevi-NSeckinM\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.dll
 C:\Users\Asus\source\repos\ikinci-hafta-odevi-NSeckinM\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\src\ApplicationCore\obj\Debug\net5.0\ref\ApplicationCore.dll
 C:\Users\Asus\source\repos\ikinci-hafta-odevi-NSeckinM\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.pdb
+C:\Users\Asus\source\repos\ikinci-hafta-odevi-NSeckinM\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csproj.AssemblyReference.cache

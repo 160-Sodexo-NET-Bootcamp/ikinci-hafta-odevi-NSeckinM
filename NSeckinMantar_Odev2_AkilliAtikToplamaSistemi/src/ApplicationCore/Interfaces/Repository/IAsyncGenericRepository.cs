@@ -11,5 +11,6 @@ namespace ApplicationCore.Interfaces.Repository
         Task<T> AddAsync(T entity);
         Task UpdateAsync(T entity);
         Task DeleteAsync(T entity);
+  
     }
 }

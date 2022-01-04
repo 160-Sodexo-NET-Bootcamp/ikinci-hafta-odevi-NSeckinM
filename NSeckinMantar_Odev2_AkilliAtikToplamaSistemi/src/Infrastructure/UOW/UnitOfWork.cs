@@ -12,21 +12,22 @@ namespace Infrastructure.UOW
     {
         private readonly ApplicationDbContext _dbContext;
 
-        public IContainerRepository Container { get; }
+        public IContainerRepository Containers { get; }
 
-        public IVehicleRepository Vehicle { get; }
+        public IVehicleRepository Vehicles { get; }
 
 
         public UnitOfWork(ApplicationDbContext dbContext, IContainerRepository containerRepository, IVehicleRepository vehicleRepository)
         {
             _dbContext = dbContext;
-            Container = containerRepository;
-            Vehicle = vehicleRepository;
+            Containers = containerRepository;
+            Vehicles = vehicleRepository;
         }
 
         public int Complete()
         {
             return _dbContext.SaveChanges();
+            
         }
 
         public void Dispose()

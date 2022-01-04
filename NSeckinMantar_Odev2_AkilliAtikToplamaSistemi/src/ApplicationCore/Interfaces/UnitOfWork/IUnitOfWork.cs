@@ -5,9 +5,9 @@ namespace ApplicationCore.Interfaces.UnitOfWork
 {
     public interface IUnitOfWork : IDisposable
     {
-        IContainerRepository Container { get; }
+        IContainerRepository Containers { get; }
 
-        IVehicleRepository Vehicle { get; }
+        IVehicleRepository Vehicles { get; }
 
         int Complete();
 
