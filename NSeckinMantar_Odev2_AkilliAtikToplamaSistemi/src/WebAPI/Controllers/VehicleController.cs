@@ -42,6 +42,21 @@ namespace WebAPI.Controllers
             return await Task.FromResult(Ok(vehicle));
         }
 
+
+        //You can use this HttpGet request with id parameter to get just one vehicle object with its own Containers.
+        //Request URL = https://localhost:44341/api/v1/Vehicles/VehicleWithContainers?id=1
+        [Route("VehicleWithContainers")]
+        [HttpGet]
+        public async Task<IActionResult> GetVehicleWithContainers(int id)
+        {
+            Vehicle vehicle = await _unitOfWork.Vehicles.GetVehicleWithContainers(id);
+            if (vehicle == null)
+            {
+                return NotFound();
+            }
+            return Ok(vehicle);
+        }
+
         //You can use this HttpPost request to create new vehicle's object.
         //Request URL =  https://localhost:44341/api/v1/Vehicles
         [HttpPost]
