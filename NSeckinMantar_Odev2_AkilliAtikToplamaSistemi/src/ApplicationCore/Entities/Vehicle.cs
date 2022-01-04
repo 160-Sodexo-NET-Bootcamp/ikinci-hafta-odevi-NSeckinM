@@ -1,9 +1,5 @@
 ﻿using ApplicationCore.Common;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
@@ -13,6 +9,7 @@ namespace ApplicationCore.Entities
         public string VehicleName { get; set; }
         public string VehiclePlate { get; set; }
 
+        public List<Container> Containers { get; set; }
 
     }
 }
