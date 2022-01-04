@@ -1,4 +1,5 @@
 ﻿using ApplicationCore.Common;
+using ApplicationCore.Entities;
 using ApplicationCore.Interfaces.Repository;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -30,6 +31,7 @@ namespace Infrastructure.Repositories
 
         public async Task<List<T>> GetAllAsync()
         {
+
             return await _dbContext.Set<T>().ToListAsync();
         }
 
