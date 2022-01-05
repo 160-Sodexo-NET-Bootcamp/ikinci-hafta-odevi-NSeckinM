@@ -109,5 +109,20 @@ namespace WebAPI.Controllers
             return NoContent();
         }
 
+
+        //Request Url=  https://localhost:44341/api/v1/Containers/GetContanerClusters?id=1&N=2
+
+        [Route("GetContanerClusters")]
+        [HttpGet]
+        public async Task<IActionResult> GetClusters(int id, int N)
+        {
+            List<Container[]> a = await _unitOfWork.Containers.GetVehicleWithContainersCluster(id, N);
+            if (a.Count ==0)
+            {
+                return BadRequest("Girilen Kümesayısı Container elemanlarını eşit oranda dağıtamıyor lütfen geçerli bir değer giriniz.");
+            }
+            return Ok(a);
+        }
+
     }
 }

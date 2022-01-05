@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj": {}
+    "C:\\Users\\Asus\\Source\\Repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

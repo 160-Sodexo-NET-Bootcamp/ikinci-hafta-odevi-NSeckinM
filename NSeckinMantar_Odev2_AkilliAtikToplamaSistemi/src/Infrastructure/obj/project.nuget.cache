@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQmGJQDZg0tWo/jdUo7oGMHvDyh96sY6Rms5j1GcaNv1S63Lwxs5B/GO8xEK3NOgA6LDxvrEaM02jz+/YUWIHw==",
+  "dgSpecHash": "c9VW/aQGm7mcKaKes+3MkpQuPlXrxa0m1wGhNdxcDdXYKmoEhimAu8rkIyUJ11BPjvamLpjII0/w0/PabY4ZKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YB/BDs3nECfcsLtf3Np3s1upikcMMFe60HOvs2A1w3cKYkwcpGG117ZNH5Oha2Cc1GKLYncrxKh8TVonvILb6Q==",
+  "dgSpecHash": "RwKKxYqUqf/W/JdIwER1buaQHAf7wFNTZRb8vLenca6AI7yWXV/oMK1kNKjt3g1vbepTJsx1ceKusxK8uZZ06Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\ikinci-hafta-odevi-NSeckinM\\NSeckinMantar_Odev2_AkilliAtikToplamaSistemi\\src\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
