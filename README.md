@@ -6,8 +6,10 @@
 # Akıllı Atık Toplama Sistemi
 
 Akıllı atık toplama sistemleri ile ilgili Arac ve konteyner arasındaki ilişki kurularak hem araç hemde konteyner için
- Temel CRUD işlemleri yapılmıştır. Aynı zamanada Bonus olarak tanımlanan optimizasyon sorusuda Optimization Controller da
-Çözümlenmiştir Ayrıntılar için ödevi inceleyebilirsiniz.
+API end pointleri oluşturulmuştur. Bu işlemler yapılırken Clean Architecture yapısı kullanılmıştır
+Aynı zamanda Repository pattern ve Unit of Work kullanılarak istenilen tüm temel CRUD işlemleri gerçekleştirilmiştir.
+Bonus olarak tanımlanan optimizasyon sorusuda Optimization Controller da Çözümlenmiştir.
+Ayrıntılar için ödevi inceleyebilirsiniz.
 
 ## Database
 
