@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220104204543_second")]
-    partial class second
+    [Migration("20220107214946_Second")]
+    partial class Second
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -111,6 +111,78 @@ namespace Infrastructure.Migrations
                             Latitude = 39.9606m,
                             Longitude = 32.7788m,
                             VehicleId = 2
+                        },
+                        new
+                        {
+                            Id = 9,
+                            ContainerName = "Cont9Ankamall",
+                            Latitude = 39.951862m,
+                            Longitude = 32.832848m,
+                            VehicleId = 1
+                        },
+                        new
+                        {
+                            Id = 10,
+                            ContainerName = "Cont10tunalı",
+                            Latitude = 39.909115m,
+                            Longitude = 32.861881m,
+                            VehicleId = 2
+                        },
+                        new
+                        {
+                            Id = 11,
+                            ContainerName = "Cont11Kugulupark",
+                            Latitude = 39.902428m,
+                            Longitude = 32.860600m,
+                            VehicleId = 1
+                        },
+                        new
+                        {
+                            Id = 12,
+                            ContainerName = "Cont12Ulus",
+                            Latitude = 39.941757m,
+                            Longitude = 32.854733m,
+                            VehicleId = 2
+                        },
+                        new
+                        {
+                            Id = 13,
+                            ContainerName = "Cont13GenlikParki",
+                            Latitude = 39.936897m,
+                            Longitude = 32.853897m,
+                            VehicleId = 1
+                        },
+                        new
+                        {
+                            Id = 14,
+                            ContainerName = "Cont14Sihhiye",
+                            Latitude = 39.929447m,
+                            Longitude = 32.854996m,
+                            VehicleId = 2
+                        },
+                        new
+                        {
+                            Id = 15,
+                            ContainerName = "Cont15Kizilay",
+                            Latitude = 39.9213m,
+                            Longitude = 32.8506m,
+                            VehicleId = 1
+                        },
+                        new
+                        {
+                            Id = 16,
+                            ContainerName = "Cont16Guvenpark",
+                            Latitude = 39.919548m,
+                            Longitude = 32.853199m,
+                            VehicleId = 2
+                        },
+                        new
+                        {
+                            Id = 17,
+                            ContainerName = "Cont17Mithatpasa",
+                            Latitude = 39.920155m,
+                            Longitude = 32.858952m,
+                            VehicleId = 1
                         });
                 });
 

@@ -8,9 +8,9 @@ namespace ApplicationCore.Entities
 
         public string ContainerName { get; set; }
 
-        public Decimal? Latitude { get; set; }
+        public decimal? Latitude { get; set; }
 
-        public Decimal? Longitude { get; set; }
+        public decimal? Longitude { get; set; }
 
 
         public int? VehicleId { get; set; }
