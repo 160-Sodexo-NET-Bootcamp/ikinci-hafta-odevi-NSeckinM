@@ -11,24 +11,24 @@ Akıllı atık toplama sistemleri ile ilgili Arac ve konteyner arasındaki iliş
 
 ## Database
 
-<img src=""/>
+<img src="https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-NSeckinM/blob/main/NSeckinMantar_Odev2_AkilliAtikToplamaSistemi/src/ApplicationCore/Images/Odev2Db.png"/>
 
 ## Dto Schema
 
-<img src=""/>
+<img src="https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-NSeckinM/blob/main/NSeckinMantar_Odev2_AkilliAtikToplamaSistemi/src/ApplicationCore/Images/Odev2DTOs.png"/>
 
 ## Container
 
-<img src=""/>
+<img src="https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-NSeckinM/blob/main/NSeckinMantar_Odev2_AkilliAtikToplamaSistemi/src/ApplicationCore/Images/Odev2ContainerAPI.png"/>
 
-<img src=""/>
+<img src="https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-NSeckinM/blob/main/NSeckinMantar_Odev2_AkilliAtikToplamaSistemi/src/ApplicationCore/Images/Odev2ContainerData.png"/>
 
 ## Vehicle
 
-<img src=""/>
+<img src="https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-NSeckinM/blob/main/NSeckinMantar_Odev2_AkilliAtikToplamaSistemi/src/ApplicationCore/Images/Odev2VehicleAPI.png"/>
 
-<img src=""/>
+<img src="https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-NSeckinM/blob/main/NSeckinMantar_Odev2_AkilliAtikToplamaSistemi/src/ApplicationCore/Images/Odev2VehicleData.png"/>
 
 ## Optimization
 
-<img src=""/>
+<img src="https://github.com/160-Sodexo-NET-Bootcamp/ikinci-hafta-odevi-NSeckinM/blob/main/NSeckinMantar_Odev2_AkilliAtikToplamaSistemi/src/ApplicationCore/Images/Odev2Opt.png"/>
